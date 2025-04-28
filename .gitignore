@@ -1,0 +1,6 @@
+venv/
+fer2013/
+*.zip
+__pycache__/
+*.pyc
+*.log
